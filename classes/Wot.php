@@ -1,8 +1,7 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Admin
- * Date: 02.04.2015
+ * Created by Janusz Dymidziuk.
+  * Date: 02.04.2015
  * Time: 20:25
  */
 

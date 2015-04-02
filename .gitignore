@@ -1,0 +1,7 @@
+.idea
+.cache
+.project
+.settings
+tools/DBCreator/temp
+tools/DBCreator/result
+EMAIL_DUMP.txt
